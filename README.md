@@ -1,4 +1,4 @@
 
 # nanogpt_with_pytorch
 
-### Demo for nanogpt network in Pytorch (nanogpt.py)
+### A simple nanogpt network in Pytorch (~ 1M parameters).
